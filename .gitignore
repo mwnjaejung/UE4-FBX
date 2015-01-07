@@ -181,3 +181,9 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+#UE4 editor
+Content/StarterContent
+Binaries/
+Saved/
+DerivedDataCache/
